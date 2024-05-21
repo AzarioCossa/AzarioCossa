@@ -1,3 +1,9 @@
+## 🙋‍♂️ Hi, my name is Azário👋:
+  - 🌍 I'm based in Limoges, France.
+  - 🚀 I'm currently a student pursuing a Bachelor's in Computer Science.
+  - 🌱 I'm currently learning Java and into app conception and development.
+  - 🔓 I'm passionate about cybersecurity and app conception.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azle_1xv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azário-cossa-882762261) 
