@@ -4,6 +4,8 @@
   - 🌱 I'm currently learning Java and into app conception and development.
   - 🔓 I'm passionate about cybersecurity and app conception.
 
+I am a first-year Computer Science student at IUT de Limousin in France. Since the beginning of my studies, I have shown a keen interest in integrated application development, particularly using the Java programming language. My passion for technology and innovation has driven me to explore various areas of software development, with a special focus on creating efficient and scalable solutions. I am constantly seeking new challenges and opportunities to apply my knowledge to practical projects, aiming to enhance my skills and contribute to technological advancement. Currently working on a school project : Develop a Scrabble game in java as attached and on some other projects.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azle_1xv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azário-cossa-882762261) 
