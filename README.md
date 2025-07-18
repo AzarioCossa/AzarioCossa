@@ -1,10 +1,10 @@
 ## 🙋‍♂️ Hi, my name is Azário👋:
   - 🌍 I'm based in Limoges, France.
   - 🚀 I'm currently a student pursuing a Bachelor's in Computer Science.
-  - 🌱 I'm currently learning Java and into app conception and development.
+  - 🌱 I'm currently learning and into app conception and development.
   - 🔓 I'm passionate about cybersecurity and app conception.
 
-I am a first-year Computer Science student at IUT de Limousin in France. Since the beginning of my studies, I have shown a keen interest in integrated application development, particularly using the Java programming language. My passion for technology and innovation has driven me to explore various areas of software development, with a special focus on creating efficient and scalable solutions. I am constantly seeking new challenges and opportunities to apply my knowledge to practical projects, aiming to enhance my skills and contribute to technological advancement. Currently working on a school project : Develop a Scrabble game in java as attached and on some other projects.
+I am a third-year Computer Science student at IUT de Limousin in France. Since the beginning of my studies, I have shown a keen interest in integrated application development and cybersecurity. My passion for technology and innovation has driven me to explore various areas of software development, with a special focus on creating efficient and scalable solutions. I am constantly seeking new challenges and opportunities to apply my knowledge to practical projects, aiming to enhance my skills and contribute to technological advancement. Currently working on personal projects to improve my knowledge in dev and cybersec.
 
 
 ## 🌐 Socials:
